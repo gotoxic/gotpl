@@ -24,3 +24,8 @@ and a `user.yml` YAML file like this one:
 You can compile the template like this:
 
     gotpl template < user.yml
+
+## Todo
+
+Helm compatible subset of functions like `enc64` and `dec64` should be renamed
+to appropriate compatible aliases.
